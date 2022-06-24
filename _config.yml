@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: PHAT Nguyen Homepage
+logo: assets/img/logo.jpg
 description: This is page where I share experience and project.
 
 remote_theme: pages-themes/minimal@v0.2.0
