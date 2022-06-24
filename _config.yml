@@ -1,4 +1,11 @@
 theme: jekyll-theme-minimal
 title: PHAT Nguyen Homepage
-logo: assets/img/logo.jpg
 description: This is page where I share experience and project.
+
+search: true
+minimal_mistakes_skin: true
+
+author:
+  name: "Phat Nguyen"
+  avartar: "/assets/img/logo.jpg"
+  bio: "Embedded firmware/software"
