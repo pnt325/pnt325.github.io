@@ -6,3 +6,5 @@ description: Embedded Firmware/Software
 relative_links:
   enabled:     true
   collections: false
+
+markdown: GFM
