@@ -2,3 +2,7 @@ theme: jekyll-theme-minimal
 title: PHAT Nguyen
 logo: /assets/img/logo.jpg
 description: Embedded Firmware/Software
+
+relative_links:
+  enabled:     true
+  collections: false
