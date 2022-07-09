@@ -3,8 +3,8 @@
 ## Framework 
 | Name                                                                         |  Details                                               | Supported Tool |
 |:----------------------------------------------------------------------------:|:------------------------------------------------------:|:--------------:|
-| [TouchGFX](https://support.touchgfx.com/4.20/docs/introduction/welcome)      | <img height="150" src="assets/img/touchgfx_logo.png"/> | Yes            |
-| [Azure GUIX](https://docs.microsoft.com/en-us/azure/rtos/guix/overview-guix) | <img height="150" src="assets/img/guix_logo.jpg"/>     | Yes            |
+| [TouchGFX](https://support.touchgfx.com/4.20/docs/introduction/welcome)      | ![](assets/img/touchgfx_logo.png)                      | Yes            |
+| [Azure GUIX](https://docs.microsoft.com/en-us/azure/rtos/guix/overview-guix) | ![](assets/img/guix_logo.jpg)                          | Yes            |
 
 ## Project
 
