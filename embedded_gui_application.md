@@ -1,10 +1,10 @@
 # Embedded GUI application
 
 ## Framework 
-| <p align="center">Name</p> | <p align="center">Details</p> | <p align="center">Supported Tool</p> |
+| Name | Details | Supported Tool |
 |------|---------|---------|
-| [TouchGFX](https://support.touchgfx.com/4.20/docs/introduction/welcome) | <p align="center"> <img height="150" src="assets/img/touchgfx_logo.png"/> </p> | <p align="center">Yes</p> |
-| [Azure GUIX](https://docs.microsoft.com/en-us/azure/rtos/guix/overview-guix) | <p align="center"> <img height="150" src="assets/img/guix_logo.jpg"/> </p> | <p align="center">Yes</p> |
+| [TouchGFX](https://support.touchgfx.com/4.20/docs/introduction/welcome) | <p align="center"> <img height="150" src="assets/img/touchgfx_logo.png"/> </p> | Yes |
+| [Azure GUIX](https://docs.microsoft.com/en-us/azure/rtos/guix/overview-guix) | <p align="center"> <img height="150" src="assets/img/guix_logo.jpg"/> </p> | Yes |
 
 ## Project
 
