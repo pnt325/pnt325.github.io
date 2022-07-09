@@ -9,13 +9,13 @@
     <th>Support Tools</th>
   </tr>
   <tr>
-    <td>TouchGFX</td>
+    <td><a href="https://support.touchgfx.com/4.20/docs/introduction/welcome">TouchGFX</a></td>
     <td> <img height="150" src="assets/img/touchgfx_logo.png"/> </td>
     <td>Yes</td>
   </tr>
   <tr>
-    <td>TouchGFX</td>
-    <td> <img height="150" src="assets/img/guix_logo.jpg"/> </td>
+    <td> <a href="https://docs.microsoft.com/en-us/azure/rtos/guix/overview-guix">Azure GUIX</a> </td>
+    <td> <p align="center"> <img height="150" src="assets/img/guix_logo.jpg"/> </p> </td>
     <td>Yes</td>
   </tr>
 </table>
