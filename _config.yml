@@ -2,6 +2,10 @@ theme: jekyll-theme-minimal
 title: PHAT Nguyen
 logo: /assets/img/logo.jpg
 description: Embedded Firmware/Software
+  <p align="center">
+  <a href="https://www.linkedin.com/in/chriskhanhtran/">LinkedIn</a> |
+  <a href="https://github.com/chriskhanhtran">GitHub</a>
+  </p>
 
 relative_links:
   enabled:     true
