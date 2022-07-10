@@ -6,21 +6,4 @@ description: Embedded Firmware/Software
 relative_links:
   enabled:     true
   collections: false
-
-owner:
-  name: "Dave Kopecek
-  avatar: "dave-kopecek.jpg"
-  bio: "The Blog That Time Forgot."
-  email: "dave.kopecek@gmail.com"
-  disqus-shortname: "davekopecek"
-  twitter: "davekopecek"
-  facebook: "davekopecek"
-  google:
-    analytics: "UA-15854484-1"
-  bing-verify:
-  github: "davekopecek"
-  bitbucket: "davekopecek"
-  stackoverflow: "4730908/dave-kopecek"
-  linkedin: "dave-kopecek-054b4618"
-  instagram: "davekopecek"
-  pinterest: "davekopecek"
+  
