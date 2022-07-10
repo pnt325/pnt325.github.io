@@ -29,5 +29,3 @@
     <td>Xamarin, .NET MAUI</td>
   </tr>
 </table>
-
-

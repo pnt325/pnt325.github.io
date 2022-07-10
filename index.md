@@ -17,7 +17,7 @@ Key experience:
 - [Data logging and visualization](data_log_and_visilization.md)
 - [Low power consumption](low_power_consumption.md)
 - [Embedded GUI application](embedded_gui_application.md)
-- [Software application: IOS, Android, Windows, Linux](software_app_page.md)
+- [Software application](software_app_page.md)
 - Firmware/Software Bare-metal/RTOS (multi-tasking/threading).
 - Firmware/Software debugging and bug-fix.
 - Device development to production procedure.
