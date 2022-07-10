@@ -5,7 +5,7 @@ I'm profesional embedded firmware/software with 5+ years experience. Full-cycle 
 Key experience:
 - [Data logging and visualization](data_log_and_visilization.md)
 - IOS, Android, Windows, Linux application: C#, Python, C/C++.
-- Low power consumption
+- [Low power consumption](low_power_consumption.md)
 - [Embedded GUI application](embedded_gui_application.md)
 - Firmware/Software Bare-metal/RTOS (multi-tasking/threading).
 - Firmware/Software debugging and bug-fix.
