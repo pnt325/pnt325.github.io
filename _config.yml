@@ -3,7 +3,10 @@ title: PHAT Nguyen
 logo: /assets/img/logo.jpg
 description: Embedded Firmware/Software
 
+author:
+  name: Phat Nguyen
+  email: phat.nt@hotmail.com
+
 relative_links:
   enabled:     true
   collections: false
-  
