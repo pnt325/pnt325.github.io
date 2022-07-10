@@ -7,6 +7,9 @@ author:
   name: Phat Nguyen
   email: phat.nt@hotmail.com
 
+social_links:
+  linkedin: phatnt
+
 relative_links:
   enabled:     true
   collections: false
