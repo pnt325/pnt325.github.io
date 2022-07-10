@@ -1,12 +1,23 @@
 ## Introduction
 
-I'm profesional embedded firmware/software with 5+ years experience. Full-cycle of IOT device development experience: development, production, maintainance and bug-fix.
+R&D in electronics and programming with 5+ years of experiences. 
+
+There are experience in embedded Firmware/Software(C/C++), application software (C#, Python, Window, Linux, Android, IOS), project analysis, IoT system (edge device, protocol(MQTT), gateway, back-end, etc.). It’s possible working with electronics hardware (schematic, layout). 
+
+Solid knowledge:
+- MCU/SOC/SOM programming C/C++, debugging, bug-fixing.
+- Communication protocol: WIFI, ETH, BLE, CAN, MODBUS, NFC, etc.
+- RTOS : freeRTOS, Azure RTOS - threadx, multi tasking/threading, none-blocking.
+- Embedded GUI: TouchGFX, Azure GUIX.
+- Low power consumption.
+
+Quickly analysis and apply open-source project to reduce development period and product prototype.
 
 Key experience:
 - [Data logging and visualization](data_log_and_visilization.md)
-- IOS, Android, Windows, Linux application: C#, Python, C/C++.
 - [Low power consumption](low_power_consumption.md)
 - [Embedded GUI application](embedded_gui_application.md)
+- [Software application: IOS, Android, Windows, Linux](software_app_page.md)
 - Firmware/Software Bare-metal/RTOS (multi-tasking/threading).
 - Firmware/Software debugging and bug-fix.
 - Device development to production procedure.
