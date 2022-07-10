@@ -2,13 +2,17 @@ theme: jekyll-theme-minimal
 title: PHAT Nguyen
 logo: /assets/img/logo.jpg
 description: Embedded Firmware/Software
-
-author:
-  name: Phat Nguyen
-  email: phat.nt@hotmail.com
-
-social_links:
-  linkedin: phatnt
+  <i style="font-size:18px;" class="fa fa-envelope"></i>
+  <a href="phat.nt@hotmail.com">Email</a>
+  <br>
+  <i style="font-size:18px" class="fa fa-github"></i>
+  <a href="https://github.com/pnt325">Github</a>
+  <br>
+  <i style="font-size:18px" class="fa fa-linkedin"></i>
+  <a href="https://www.linkedin.com/in/phatnt/">Linkedin</a>
+  <br>
+  <i style="font-size:18px" class="fa fa-youtube"></i>
+  <a href="https://www.linkedin.com/in/phatnt/">Youtube</a>
 
 relative_links:
   enabled:     true
