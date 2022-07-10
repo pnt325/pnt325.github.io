@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: PHAT Nguyen
-logo: /assets/img/logo.jpg
+title: <p align="center">PHAT Nguyen</p>
+logo: "/assets/img/logo.png?raw=true"
 description: Embedded Firmware/Software
   <br>
   <i style="font-size:18px;" class="fa fa-envelope"></i>
