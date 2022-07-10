@@ -2,12 +2,25 @@ theme: jekyll-theme-minimal
 title: PHAT Nguyen
 logo: /assets/img/logo.jpg
 description: Embedded Firmware/Software
-  <p align="center">
-  <a href="https://www.linkedin.com/in/chriskhanhtran/">LinkedIn</a> |
-  <a href="https://github.com/chriskhanhtran">GitHub</a>
-  </p>
 
 relative_links:
   enabled:     true
   collections: false
 
+owner:
+  name: "Dave Kopecek
+  avatar: "dave-kopecek.jpg"
+  bio: "The Blog That Time Forgot."
+  email: "dave.kopecek@gmail.com"
+  disqus-shortname: "davekopecek"
+  twitter: "davekopecek"
+  facebook: "davekopecek"
+  google:
+    analytics: "UA-15854484-1"
+  bing-verify:
+  github: "davekopecek"
+  bitbucket: "davekopecek"
+  stackoverflow: "4730908/dave-kopecek"
+  linkedin: "dave-kopecek-054b4618"
+  instagram: "davekopecek"
+  pinterest: "davekopecek"
