@@ -83,7 +83,7 @@ Kit working with [Energy Profiler](https://docs.silabs.com/simplicity-studio-5-u
 
 The project implement using TouchGFX and STM32F746NG-Disco with custom widget, event.
 
-All the ICON and iamge design by [Inkscape](https://inkscape.org/)
+All the ICON and iamge design using [Inkscape](https://inkscape.org/)
 
 <p align="center">
   <img src="assets/img/CoffeeRoastingMachine.jpg">
