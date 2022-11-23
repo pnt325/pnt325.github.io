@@ -27,6 +27,10 @@ Real-time visualization used C# .NET framework to shown overview device working 
 
 ![](assets/img/data_log_software.jpg)
 
+### IMU DMP_QUATER_6
+
+![Alt text](assets/img/DMP_Qauter_6.jpg)
+
 The software allow user can place the monitor object by select area of retangle. Support component of lable, table and linechart.
 
 Feature:
