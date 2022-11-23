@@ -63,7 +63,7 @@ Kit working with [Energy Profiler](https://docs.silabs.com/simplicity-studio-5-u
   <tr>
     <th>Name</th>
     <th>Details</th>
-    <th>Support Tools</th>
+    <th>Design Tools</th>
   </tr>
   <tr>
     <td><a href="https://support.touchgfx.com/4.20/docs/introduction/welcome">TouchGFX</a></td>
