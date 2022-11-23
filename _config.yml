@@ -3,26 +3,24 @@ title: <p align="center">PHAT Nguyen</p>
 logo: "/assets/img/logo.png?raw=true"
 description: Embedded Firmware/Software
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
   
   <br>
-  <i style="font-size:18px;color:red" class="fa fa-map-marker-alt"></i>
+  <i style="font-size:18px;color:red" class="fas fa-map-marker-alt"></i>
   <a>Vietnam</a>
   <br>
   
   <br>
   <i style="font-size:18px;" class="fa fa-envelope"></i>
   <a href="mailto:phat.nt@hotmail.com">Email</a>
-  <br>
   
   <br>
   <i style="font-size:18px" class="fa fa-github"></i>
   <a href="https://github.com/pnt325">Github</a>
-  <br>
   
   <br>
   <i style="font-size:18px;color:#0077b5" class="fa fa-linkedin"></i>
   <a href="https://www.linkedin.com/in/phatnt/">Linkedin</a>
-  <br>
   
   <br>
   <i style="font-size:18px;color:red" class="fa fa-youtube"></i>
