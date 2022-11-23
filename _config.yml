@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: <p align="center">PHAT Nguyen</p>
 logo: "/assets/img/logo.png?raw=true"
-description: <p><b>Embedded Firmware/Software</b></p>
+description: <b>Embedded Firmware/Software</b>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
   <br>
