@@ -23,13 +23,18 @@ Real-time visualization used C# .NET framework to shown overview device working 
 
 ![](assets/img/data_log_visualization.jpg)
 
+### IMU DMP_QUATER_6
+
+Porting `eMD_SmartMotion ICM20648` to run on `EFR32BG22` MCU
+
+Demo WPF application render 3D cude and rotation by IMU data
+
+![Alt text](assets/img/DMP_Qauter_6.jpg)
+
 ### Data logger
 
 ![](assets/img/data_log_software.jpg)
 
-### IMU DMP_QUATER_6
-
-![Alt text](assets/img/DMP_Qauter_6.jpg)
 
 The software allow user can place the monitor object by select area of retangle. Support component of lable, table and linechart.
 
