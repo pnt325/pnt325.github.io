@@ -3,10 +3,9 @@ title: <p align="center">PHAT Nguyen</p>
 logo: "/assets/img/logo.png?raw=true"
 description: Embedded Firmware/Software
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
   
   <br>
-  <i style="font-size:18px;color:red" class="fas fa-map-marker-alt"></i>
+  <i style="font-size:18px;color:red" class="fa fa-map-marker"></i>
   <a>Vietnam</a>
   <br>
   
