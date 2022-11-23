@@ -5,12 +5,11 @@ description: Embedded Firmware/Software
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
   <br>
-  <i style="font-size:18px;color:red" class="fa fa-map-marker"></i>
-  <a>Vietnam</a>
+  <i style="font-size:18px;" class="fa fa-map-marker"> Vietnam</i>
   <br>
   
   <br>
-  <i style="font-size:18px;" class="fa fa-envelope"></i>
+  <i style="font-size:18px;color:#4485e0" class="fa fa-envelope"></i>
   <a href="mailto:phat.nt@hotmail.com">Email</a>
   
   <br>
