@@ -5,8 +5,8 @@ description: Embedded Firmware/Software
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
   <br>
-  <i style="font-size:18px;color:red" class="fa fa-map"></i>
-  <p>Vietnam</p>
+  <i style="font-size:18px;color:red" class="fa fa-map-marker-alt"></i>
+  <a>Vietnam</a>
   <br>
   
   <br>
