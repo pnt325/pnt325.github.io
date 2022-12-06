@@ -36,7 +36,7 @@ Demo WPF application render 3D cude and rotation by IMU data
 ![](assets/img/data_log_software.jpg)
 
 
-The software allow user can place the monitor object by select area of retangle. Support component of lable, table and linechart.
+The software allow user can place the monitor object by select area of retangle. Support component of label, table and linechart.
 
 Feature:
 - Grid change.
