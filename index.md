@@ -23,11 +23,11 @@ Real-time visualization used C# .NET framework to shown overview device working 
 
 ![](assets/img/data_log_visualization.jpg)
 
-### IMU DMP_QUATER_6
+### [IMU DMP_QUATER_6](https://github.com/pnt325/EFR32BG22-Thunerboard-ICM20648-DMP-QUATER_6)
 
-Porting `eMD_SmartMotion ICM20648` to run on `EFR32BG22` MCU
+Porting `eMD_SmartMotion ICM20648` to `EFR32BG22` MCU
 
-Demo WPF application render 3D cude and rotation by IMU data
+[Demo](https://youtu.be/--8RvOhYURk) WPF application render 3D cude and rotation by IMU data
 
 ![Alt text](assets/img/DMP_Qauter_6.jpg)
 
@@ -117,7 +117,7 @@ Icons and image design by [Inkscape](https://inkscape.org/)
 <img src="assets/img/washmachine_icon_design.jpg"/>
 </p>
 
-#### Idea
+#### Concept
 
 <p align="center">
 <img src="assets/img/washmachine_idea.jpg"/>
