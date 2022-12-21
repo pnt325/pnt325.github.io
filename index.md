@@ -6,7 +6,7 @@ There are experience in embedded Firmware/Software(C/C++), application software 
 
 Solid knowledge:
 - MCU/SOC/SOM programming C/C++, debugging, bug-fixing.
-- Communication protocol: WIFI, ETH, BLE, CAN, MODBUS, NFC, etc.
+- Communication protocol: WIFI, ETH, BLE, CAN, MODBUS, NFC, USB(WINUSB, LIBUSB, WCID).
 - RTOS : freeRTOS, Azure RTOS - threadx, multi tasking/threading, none-blocking.
 - Embedded GUI: TouchGFX, Azure GUIX, LVGL.
 - Low power consumption.
@@ -15,20 +15,17 @@ Quickly analysis and apply open-source project to reduce development period and 
 
 # Experience
 
-## 1. Data logging and visualization
+## 1. Software development and visualization
 
 ### Visualization
 
-Real-time visualization used C# .NET framework to shown overview device working status, analysys and optimize algorithm.
+Real-time visualization used C# .NET framework to shown overview device working status, analys and optimize algorithm.
 
 ![](assets/img/data_log_visualization.jpg)
 
-### [IMU DMP_QUATER_6](https://github.com/pnt325/EFR32BG22-Thunerboard-ICM20648-DMP-QUATER_6)
+### 3D Cube DMP_QUATER_6 imu sensor
 
-Porting `eMD_SmartMotion ICM20648` to `EFR32BG22` MCU
-
-[Demo](https://youtu.be/--8RvOhYURk) WPF application render 3D cude and rotation by IMU data
-
+[Source](https://github.com/pnt325/EFR32BG22-Thunerboard-ICM20648-DMP-QUATER_6),[Demo](https://youtu.be/--8RvOhYURk)
 ![Alt text](assets/img/DMP_Qauter_6.jpg)
 
 ### Data logger
@@ -36,7 +33,7 @@ Porting `eMD_SmartMotion ICM20648` to `EFR32BG22` MCU
 ![](assets/img/data_log_software.jpg)
 
 
-The software allow user can place the monitor object by select area of retangle. Support component of label, table and linechart.
+User can place the monitoring object by select area of retangle. Support component of label, table and linechart.
 
 Feature:
 - Grid change.
@@ -44,7 +41,7 @@ Feature:
 - Add/Remove component.
 - Save layout.
 
-Source code: [DataLogger](https://github.com/pnt325/DataLogger)
+[Source](https://github.com/pnt325/DataLogger)
 
 ## 2. Low power consumption
 
