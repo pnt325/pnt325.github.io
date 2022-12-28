@@ -43,6 +43,12 @@ Feature:
 
 [Source](https://github.com/pnt325/DataLogger)
 
+### CAN bus logging and analyzer
+
+Communication with CAN bus use [Peak CAN usb](https://www.peak-system.com/PCAN-USB.199.0.html?&L=1)
+
+![Alt text](assets/img/can_bus.jpg)
+
 ## 2. Low power consumption
 
 ### [Power profiler kit](https://www.silabs.com/documents/public/user-guides/ug431-brd4183a-user-guide.pdf)
