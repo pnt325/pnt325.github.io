@@ -45,7 +45,7 @@ Feature:
 
 ### CAN bus logging and analyzer
 
-Communication with CAN bus use [Peak CAN usb](https://www.peak-system.com/PCAN-USB.199.0.html?&L=1)
+Communication with CAN bus use [Peak CAN USB](https://www.peak-system.com/PCAN-USB.199.0.html?&L=1)
 
 ![Alt text](assets/img/can_bus.jpg)
 
