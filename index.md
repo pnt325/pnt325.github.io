@@ -6,7 +6,7 @@ There are experience in embedded Firmware/Software(C/C++), application software 
 
 Solid knowledge:
 - MCU/SOC/SOM programming C/C++, debugging, bug-fixing.
-- Communication protocol: WIFI, ETH, BLE, CAN, MODBUS, NFC, USB(WINUSB, LIBUSB, WCID).
+- Communication protocol: WIFI, ETH, BLE, CAN, MODBUS, NFC, USB(WINUSB, LIBUSB, WCID), Gateway.
 - RTOS : freeRTOS, Azure RTOS - threadx, multi tasking/threading, none-blocking.
 - Embedded GUI: TouchGFX, Azure GUIX, LVGL.
 - Low power consumption.
