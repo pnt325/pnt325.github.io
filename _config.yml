@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
 title: <p align="center">PHAT Nguyen</p>
 logo: "/assets/img/logo.png?raw=true"
 description: <b>Embedded Firmware/Software</b>
