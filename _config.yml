@@ -26,6 +26,10 @@ description: <b>Embedded Firmware/Software</b>
   <i style="font-size:18px;color:red" class="fa fa-youtube"></i>
   <a href="https://www.youtube.com/c/PhatNguyenDIY">Youtube</a>
 
+  <br>
+  <i style="font-size:18px;color:#4267B2" class="fa fa-facebook"></i>
+  <a href="https://www.facebook.com/phatnt325">Facebook</a>
+
 relative_links:
   enabled:     true
   collections: false
