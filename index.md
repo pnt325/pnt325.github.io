@@ -85,16 +85,14 @@ Real-time visualization used C# .NET framework to shown overview device working 
 
 ![](assets/img/data_log_visualization.jpg)
 
-#### 3D Cube & 6 DOF sensor
-
-[Source Code](https://github.com/pnt325/EFR32BG22-Thunerboard-ICM20648-DMP-QUATER_6)
+#### [3D Cube & 6 DOF sensor](https://github.com/pnt325/EFR32BG22-Thunerboard-ICM20648-DMP-QUATER_6)
 
 Demo video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--8RvOhYURk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-#### Data logger
+#### [Data logger](https://github.com/pnt325/DataLogger)
 
 ![](assets/img/data_log_software.jpg)
 
@@ -106,8 +104,6 @@ Feature:
 - Auto resize object component.
 - Add/Remove component.
 - Save and load layout.
-
-[Source code](https://github.com/pnt325/DataLogger)
 
 #### CAN bus logging and analyzer
 
@@ -124,8 +120,6 @@ Communication with CAN bus use [Peak CAN USB](https://www.peak-system.com/PCAN-U
 Kit working with [Energy Profiler](https://docs.silabs.com/simplicity-studio-5-users-guide/1.0/using-the-tools/energy-profiler/) integrated in Simplicity Studio
 
 ![](assets/img/energy-prof-interface.png)
-
-#### Demo video
 
 <p align="center">
 
@@ -165,8 +159,7 @@ Icons and image design by [Inkscape](https://inkscape.org/)
 <img src="assets/img/washmachine_idea.jpg"/>
 </p>
 
-#### Demo
-
+#### Demo video
 <p align="center">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/6C_YN7xRSYk" title="Embedded GUI design Wash Machine Touchscreen control panel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
