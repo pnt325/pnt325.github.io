@@ -1,8 +1,8 @@
 # Introduction
 
-R&D in electronics and programming with 5+ years of experiences. 
+I have 5+ years' experience firmware and software development for IOT device. 
 
-There are experience in embedded Firmware/Software(C/C++), application software (C#, Python, Window, Linux, Android, iOS), project analysis, IoT system (edge device, protocol(MQTT), gateway, back-end, etc.). It’s possible working with electronics hardware (schematic, layout). 
+There is experience in embedded firmware/software using C/C++ for almost of popular MCU, SOC, SOM: STM32, NRF52, ESP32, EFM32, EFR32, SAM32, ... And network communication BLE, WIFI, NFC, ETH, USB, CANBUS, MODBUS. About the software application I can development the iOS, Android app using C# and Xamarin framework, desktop application Windows, Linux using C#, Python.
 
 Solid knowledge:
 - MCU/SOC/SOM programming C/C++, debugging, bug-fixing.
