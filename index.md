@@ -141,25 +141,25 @@ Icons and image design by [Inkscape](https://inkscape.org/)
 
 #### 2. LG Wash Machine Control Panel
 
-#### GUI panel design
+##### GUI panel design
 
 <p align="center">
 <img src="assets/img/washmachine_design.jpg"/>
 </p>
 
-#### Icon design
+##### Icon design
 
 <p align="center">
 <img src="assets/img/washmachine_icon_design.jpg"/>
 </p>
 
-#### Concept
+##### Concept
 
 <p align="center">
 <img src="assets/img/washmachine_idea.jpg"/>
 </p>
 
-#### Demo video
+##### Demo video
 <p align="center">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/6C_YN7xRSYk" title="Embedded GUI design Wash Machine Touchscreen control panel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
