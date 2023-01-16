@@ -15,59 +15,39 @@ Quickly analysis and apply open-source project to reduce development period and 
 
 # Experience
 
-## 1. Software development and visualization
+## 1. Software development
 
-### Visualization
+### Language and framework
 
-Real-time visualization used C# .NET framework to shown overview device working status, analys and optimize algorithm.
+<table>
+  <tr>
+    <th>OS</th>
+    <th>Language</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td>C#, Python</td>
+    <td>Windows Form, WPF, UWP</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td>C#, Python</td>
+    <td>Desktop App, CLI, Services</td>
+  </tr>
+  <tr>
+    <td>Android</td>
+    <td>C#</td>
+    <td>Xamarin, .NET MAUI</td>
+  </tr>
+  <tr>
+    <td>IOS</td>
+    <td>C#</td>
+    <td>Xamarin, .NET MAUI</td>
+  </tr>
+</table>
 
-![](assets/img/data_log_visualization.jpg)
-
-### 3D Cube DMP_QUATER_6 imu sensor
-
-[Source](https://github.com/pnt325/EFR32BG22-Thunerboard-ICM20648-DMP-QUATER_6),[Demo](https://youtu.be/--8RvOhYURk)
-![Alt text](assets/img/DMP_Qauter_6.jpg)
-
-### Data logger
-
-![](assets/img/data_log_software.jpg)
-
-
-User can place the monitoring object by select area of retangle. Support component of label, table and linechart.
-
-Feature:
-- Grid change.
-- Auto resize object component.
-- Add/Remove component.
-- Save layout.
-
-[Source](https://github.com/pnt325/DataLogger)
-
-### CAN bus logging and analyzer
-
-Communication with CAN bus use [Peak CAN USB](https://www.peak-system.com/PCAN-USB.199.0.html?&L=1)
-
-![Alt text](assets/img/can_bus.jpg)
-
-## 2. Low power consumption
-
-### [Power profiler kit](https://www.silabs.com/documents/public/user-guides/ug431-brd4183a-user-guide.pdf)
-
-![](assets/img/WSTK.png)
-
-Kit working with [Energy Profiler](https://docs.silabs.com/simplicity-studio-5-users-guide/1.0/using-the-tools/energy-profiler/) integrated in Simplicity Studio
-
-![](assets/img/energy-prof-interface.png)
-
-### Demo
-
-<p align="center">
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/OZZQ3ALdSR8" title="[Power profiler] IOT device low power consumption" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</p>
-
-## 3. Embedded GUI application
+## 2. Embedded Graphic Design and Development
 
 ### Framework 
 
@@ -94,7 +74,66 @@ Kit working with [Energy Profiler](https://docs.silabs.com/simplicity-studio-5-u
   </tr>
 </table>
 
-### Project
+
+## 3. Projects
+
+### 3.1 Software development
+
+#### Data Visualization
+
+Real-time visualization used C# .NET framework to shown overview device working status, analys and optimize algorithm.
+
+![](assets/img/data_log_visualization.jpg)
+
+#### 3D Cube & 6 DOF sensor
+
+[Source Code](https://github.com/pnt325/EFR32BG22-Thunerboard-ICM20648-DMP-QUATER_6)
+
+Demo video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/--8RvOhYURk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+#### Data logger
+
+![](assets/img/data_log_software.jpg)
+
+
+Able place the monitoring object by select area of retangle. Support component of label, table and linechart.
+
+Feature:
+- Grid change.
+- Auto resize object component.
+- Add/Remove component.
+- Save and load layout.
+
+[Source code](https://github.com/pnt325/DataLogger)
+
+#### CAN bus logging and analyzer
+
+Communication with CAN bus use [Peak CAN USB](https://www.peak-system.com/PCAN-USB.199.0.html?&L=1)
+
+![Alt text](assets/img/can_bus.jpg)
+
+### 3.2 Low power consumption
+
+#### [Power profiler kit](https://www.silabs.com/documents/public/user-guides/ug431-brd4183a-user-guide.pdf)
+
+![](assets/img/WSTK.png)
+
+Kit working with [Energy Profiler](https://docs.silabs.com/simplicity-studio-5-users-guide/1.0/using-the-tools/energy-profiler/) integrated in Simplicity Studio
+
+![](assets/img/energy-prof-interface.png)
+
+#### Demo video
+
+<p align="center">
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/OZZQ3ALdSR8" title="[Power profiler] IOT device low power consumption" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</p>
+
+### 3.3 Embedded Graphic
 
 #### 1. Coffee Roasting Machine
 
@@ -132,43 +171,3 @@ Icons and image design by [Inkscape](https://inkscape.org/)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/6C_YN7xRSYk" title="Embedded GUI design Wash Machine Touchscreen control panel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-
-## 4. Software application
-
-### Language and framework
-
-<table>
-  <tr>
-    <th>OS</th>
-    <th>Language</th>
-    <th>Details</th>
-  </tr>
-  <tr>
-    <td>Windows</td>
-    <td>C#, Python</td>
-    <td>Windows Form, WPF, UWP</td>
-  </tr>
-  <tr>
-    <td>Linux</td>
-    <td>C#, Python</td>
-    <td>Desktop App, CLI, Services</td>
-  </tr>
-  <tr>
-    <td>Android</td>
-    <td>C#</td>
-    <td>Xamarin, .NET MAUI</td>
-  </tr>
-  <tr>
-    <td>IOS</td>
-    <td>C#</td>
-    <td>Xamarin, .NET MAUI</td>
-  </tr>
-</table>
-
-## 5. Firmware/Software Bare-metal/RTOS (multi-tasking/threading).
-## 6. Firmware/Software debugging and bug-fix.
-## 7. Device development to production procedure.
-
-## Projects
-
-## Tutorials
