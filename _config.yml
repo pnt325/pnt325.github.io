@@ -16,7 +16,7 @@ description: <b>Embedded Firmware/Software</b>
   
   <br>
   <i style="font-size:18px;color:black" class="fa fa-github"></i>
-  <a href="https://github.com/pnt325">Github</a>
+  <a href="https://github.com/pnt325" target="_blank">Github</a>
   
   <br>
   <i style="font-size:18px;color:#0077b5" class="fa fa-linkedin"></i>
@@ -24,11 +24,11 @@ description: <b>Embedded Firmware/Software</b>
   
   <br>
   <i style="font-size:18px;color:red" class="fa fa-youtube"></i>
-  <a href="https://www.youtube.com/c/PhatNguyenDIY">Youtube</a>
+  <a href="https://www.youtube.com/c/PhatNguyenDIY" target="_blank">Youtube</a>
 
   <br>
   <i style="font-size:18px;color:#4267B2" class="fa fa-facebook"></i>
-  <a href="https://www.facebook.com/phatnt325">Facebook</a>
+  <a href="https://www.facebook.com/phatnt325" target="_blank">Facebook</a>
 
 relative_links:
   enabled:     true
