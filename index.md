@@ -2,22 +2,20 @@
 
 I have 5+ years' experience firmware and software development for IOT device. 
 
-There is experience in embedded firmware/software using C/C++ for almost of popular MCU, SOC, SOM: STM32, NRF52, ESP32, EFM32, EFR32, SAM32, ... And network communication BLE, WIFI, NFC, ETH, USB, CANBUS, MODBUS. About the software application I can development the iOS, Android app using C# and Xamarin framework, desktop application Windows, Linux using C#, Python.
+There is experience in embedded firmware/software using C/C++ for almost of popular MCU, SOC, SOM: STM32, NRF52, ESP32, EFM32, EFR32, SAM32, ... And network communication BLE, WIFI, NFC, ETH, USB, CANBUS, MODBUS. Development the mobile app iOS, Android (C# .NET, Xamarin), desktop application Windows, Linux (C#, Python).
 
-Solid knowledge:
-- MCU/SOC/SOM programming C/C++, debugging, bug-fixing.
+Key experiences:
+- MCU/SOC/SOM programming C/C++, Debugging, Bug-Fixing.
 - Communication protocol: WIFI, ETH, BLE, CAN, MODBUS, NFC, USB(WINUSB, LIBUSB, WCID), Gateway.
-- RTOS : freeRTOS, Azure RTOS - threadx, multi tasking/threading, none-blocking.
+- RTOS: freeRTOS, Azure RTOS - threadx, multi tasking/threading, none-blocking.
 - Embedded GUI: TouchGFX, Azure GUIX, LVGL.
 - Low power consumption.
 
 Quickly analysis and apply open-source project to reduce development period and product prototype.
 
-# Experience
+# Experiences
 
 ## 1. Software development
-
-### Language and framework
 
 <table>
   <tr>
@@ -41,15 +39,13 @@ Quickly analysis and apply open-source project to reduce development period and 
     <td>Xamarin, .NET MAUI</td>
   </tr>
   <tr>
-    <td>IOS</td>
+    <td>iOS</td>
     <td>C#</td>
     <td>Xamarin, .NET MAUI</td>
   </tr>
 </table>
 
-## 2. Embedded Graphic Design and Development
-
-### Framework 
+## 2. Embedded GUI
 
 <table>
   <tr>
@@ -81,37 +77,34 @@ Quickly analysis and apply open-source project to reduce development period and 
 
 #### Data Visualization
 
-Real-time visualization used C# .NET framework to shown overview device working status, analys and optimize algorithm.
+Real-time visualization data to show device working status, monitoring, data collection to analsys and algorithm optimize
 
 ![](assets/img/data_log_visualization.jpg)
 
 #### [3D Cube & 6 DOF sensor](https://github.com/pnt325/EFR32BG22-Thunerboard-ICM20648-DMP-QUATER_6)
 
-Demo video
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--8RvOhYURk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-#### [Data logger](https://github.com/pnt325/DataLogger)
+#### [Data Logger](https://github.com/pnt325/DataLogger)
+
+Monitoring device with able select area of retangle. Support view of table, label, linechart.
+
+Feature:
+- Update grid.
+- Auto  rezie object component.
+- Add/remove component.
+- Save/Open layout.
 
 ![](assets/img/data_log_software.jpg)
 
+#### CAN bus logging and analyzer software
 
-Able place the monitoring object by select area of retangle. Support component of label, table and linechart.
-
-Feature:
-- Grid change.
-- Auto resize object component.
-- Add/Remove component.
-- Save and load layout.
-
-#### CAN bus logging and analyzer
-
-Communication with CAN bus use [Peak CAN USB](https://www.peak-system.com/PCAN-USB.199.0.html?&L=1)
+Communication with [Peak CAN USB](https://www.peak-system.com/PCAN-USB.199.0.html?&L=1)
 
 ![Alt text](assets/img/can_bus.jpg)
 
-### 3.2 Low power consumption
+### 3.2 Low Power Consumption
 
 #### [Power profiler kit](https://www.silabs.com/documents/public/user-guides/ug431-brd4183a-user-guide.pdf)
 
