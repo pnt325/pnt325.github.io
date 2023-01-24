@@ -92,7 +92,7 @@ Monitoring device with able select area of retangle. Support view of table, labe
 
 Feature:
 - Update grid.
-- Auto  rezie object component.
+- Auto resize component.
 - Add/remove component.
 - Save/Open layout.
 
