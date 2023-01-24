@@ -51,7 +51,7 @@ Quickly analysis and apply open-source project to reduce development period and 
   <tr>
     <th>Name</th>
     <th>Details</th>
-    <th>Design Tools</th>
+    <th>Support Tools</th>
   </tr>
   <tr>
     <td><a href="https://support.touchgfx.com/4.20/docs/introduction/welcome">TouchGFX</a></td>
