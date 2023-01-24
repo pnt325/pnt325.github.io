@@ -11,7 +11,7 @@ Key experiences:
 - Embedded GUI: TouchGFX, Azure GUIX, LVGL.
 - Low power consumption.
 
-Quickly analysis and apply open-source project to reduce development period and product prototype.
+Quickly analysis and apply open-source project to reduce development period and bring prototype to product.
 
 # Experiences
 
