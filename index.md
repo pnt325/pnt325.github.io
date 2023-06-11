@@ -26,7 +26,7 @@ Quickly analysis and apply open-source project to reduce development period and 
   <tr>
     <td>Windows</td>
     <td>C#, Python</td>
-    <td>Windows Form, WPF, UWP</td>
+    <td>Windows Form, WPF, UWP, BLE</td>
   </tr>
   <tr>
     <td>Linux</td>
@@ -36,12 +36,12 @@ Quickly analysis and apply open-source project to reduce development period and 
   <tr>
     <td>Android</td>
     <td>C#</td>
-    <td>Xamarin, .NET MAUI</td>
+    <td>Xamarin, .NET MAUI, BLE</td>
   </tr>
   <tr>
     <td>iOS</td>
     <td>C#</td>
-    <td>Xamarin, .NET MAUI</td>
+    <td>Xamarin, .NET MAUI, BLE</td>
   </tr>
 </table>
 
