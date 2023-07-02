@@ -1,6 +1,6 @@
 # Introduction
 
-I have 5+ years' experience firmware and software development for IOT device. 
+I have 6+ years' experience firmware and software development for IOT device. 
 
 There is experience in embedded firmware/software using C/C++ for almost of popular MCU, SOC, SOM: STM32, NRF52, ESP32, EFM32, EFR32, SAM32, ... And network communication BLE, WIFI, NFC, ETH, USB, CANBUS, MODBUS. Development the mobile app iOS, Android (C# .NET, Xamarin), desktop application Windows, Linux (C#, Python).
 
