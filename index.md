@@ -73,7 +73,15 @@ Quickly analysis and apply open-source project to reduce development period and 
 
 ## 3. Projects
 
-### 3.1 Software development
+### Contribute projects
+
+- Develop firmware for open-source Air Quality Monitor hardware
+  
+| Website | Github Repository |
+|---------|-------------------|
+| [AirGradient](https://www.airgradient.com/) | https://github.com/airgradienthq/arduino|
+
+### Software development
 
 #### Data Visualization
 
@@ -104,7 +112,7 @@ Communication with [Peak CAN USB](https://www.peak-system.com/PCAN-USB.199.0.htm
 
 ![Alt text](assets/img/can_bus.jpg)
 
-### 3.2 Low Power Consumption
+### Low Power Consumption
 
 #### [Power profiler kit](https://www.silabs.com/documents/public/user-guides/ug431-brd4183a-user-guide.pdf)
 
@@ -120,9 +128,9 @@ Kit working with [Energy Profiler](https://docs.silabs.com/simplicity-studio-5-u
 
 </p>
 
-### 3.3 Embedded Graphic
+### Embedded GUI
 
-#### 1. Coffee Roasting Machine
+#### Coffee Roasting Machine
 
 The project used TouchGFX framework and STM32F746NG-Disco and create custom widget, event.
 
@@ -132,7 +140,7 @@ Icons and image design by [Inkscape](https://inkscape.org/)
   <img src="assets/img/CoffeeRoastingMachine.jpg">
 </p>
 
-#### 2. LG Wash Machine Control Panel
+#### LG Wash Machine Control Panel
 
 ##### GUI panel design
 
