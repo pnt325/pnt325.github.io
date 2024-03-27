@@ -54,7 +54,7 @@ My experiences and skills:
   </tr>
 </table>
 
-## 2. Embedded GUI
+## 2. Embedded GUI development
 
 <table>
   <tr>
@@ -80,7 +80,7 @@ My experiences and skills:
 </table>
 
 
-## 3. Projects
+## 3. My Projects
 
 ### Contribute projects
 
