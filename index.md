@@ -1,8 +1,8 @@
 # Introduction
 
-Hello
+Thank you for looking my profile. 
 
-Thank you for looking my profile. I'm embedded firmware and software developer over 6+ experiences. I'm worked over multiple position before full-time and full-stack developer embedded device: Hardware development (PCB layout, Schematic design), Software development (Windows, Linux), Mobile application development (Android, iOS) and full cycles development device from prototype to productions.
+I'm embedded firmware and software developer over 6+ experiences. I'm worked over multiple position before full-time and full-stack developer embedded device: Hardware development (PCB layout, Schematic design), Software development (Windows, Linux), Mobile application development (Android, iOS) and full cycles development device from prototype to productions.
 
 Currently I'm working full time on freelance projects, I build small home labs has some tools and equipments support for developing, testing and debugging embedded devices. I also manage a team with firmware/software (me), hardware, and mechanical engineering for fully support embedded device development.
 
