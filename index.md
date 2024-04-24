@@ -15,7 +15,7 @@ My experiences and skills:
 - Iot Cloud: AWS Iot, Azure Iot Core, Thingsboard Cloud.
 - Communication: BLE, WIFI, ETH, NFC, CAN, MODBUS, USB (WINUSB, WINCID, LIBUSB, etc.), Z-WAVE etc.
 - Real-time operation: freeRTOS, Azure RTOS(Threadx), Zephyr, etc.
-- Microcontroller: STM32, EFR32, EFM32, ZGM23, NRF52, NRF53, ESP32, PIC, AVR, ATSAM, Ambiq Apollo, etc.
+- Microcontroller: STM32, EFR32, EFM32, ZGM23, NRF52, ESP32, PIC, AVR, ATSAM, Ambiq Apollo, etc.
 - Framework: STM32Cube, nRF Connect, nRF52 SDK, Zephyr, ESP-IDF, SiliconLabs Gecko, etc.
 - Device firmware update(DFU): OTA, Bootloader, Secureboot, Flash encryption, etc.
 - Manufacturing: ATS(Automation Test Software), testing firmware, flashing tools and scripts, Secureboot, Flash encryption, etc.
