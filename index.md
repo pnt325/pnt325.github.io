@@ -88,7 +88,7 @@ My experiences and skills:
   
 | Website | Github Repository |
 |---------|-------------------|
-| [AirGradient](https://www.airgradient.com/) | https://github.com/airgradienthq/arduino|
+| [AirGradient](https://www.airgradient.com/) | [https://github.com/airgradienthq/arduino](https://github.com/airgradienthq/arduino)|
 
 ### Software development
 
