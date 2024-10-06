@@ -71,7 +71,7 @@ Feel free message to me for discuss your project.
   </tr>
   <tr>
     <td><a href="https://support.touchgfx.com/4.20/docs/introduction/welcome">TouchGFX</a></td>
-    <td> <img height="150" src="assets/img/touchgfx_logo.png"/> </td>
+    <td> <img height="150" src="https://support.touchgfx.com/img/meta-image.png"/> </td>
     <td>Yes</td>
   </tr>
   <tr>
