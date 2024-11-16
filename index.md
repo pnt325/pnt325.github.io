@@ -2,7 +2,7 @@
 
 Thank you for looking my profile. 
 
-I'm embedded firmware and software developer over 6+ experiences. I'm worked over multiple position before full-time and full-stack developement embedded device: Hardware development (PCB layout, Schematic design), Software development (Windows, Linux), Mobile application development (Android, iOS). And I'm also worked on almost process of products development from prototype to production process.
+I'm embedded firmware and software developer over 7+ experiences. I'm worked over multiple position before full-time and full-stack developement embedded device: Hardware development (PCB layout, Schematic design), Software development (Windows, Linux), Mobile application development (Android, iOS). And I'm also worked on almost process of products development from prototype to production process.
 
 I build small home labs has some tools and equipment support for developing, testing and debugging embedded devices. I have a team include firmware/software (me), hardware, and mechanical engineering for fully support embedded device development.
 
